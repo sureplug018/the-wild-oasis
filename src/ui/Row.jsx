@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
 const Row = styled.span`
-  text-align: center;
+  text-align: ;
 `;
 export default Row;
